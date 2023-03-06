@@ -85,9 +85,9 @@
  }
 
  .banner-carousel .active .slide-item .image-layer {
-   -webkit-transform: scale(1.15);
-   -ms-transform: scale(1.15);
-   transform: scale(1.15);
+   -webkit-transform: scale(1);
+   -ms-transform: scale(1);
+   transform: scale(1);
  }
 
  .banner-carousel .content-box h3 {
